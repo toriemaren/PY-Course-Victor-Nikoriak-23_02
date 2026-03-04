@@ -1,4 +1,7 @@
-# 🐍 PY_Course_Victor-Nikoriak-23_02
+# 🐍 Python Programming Bootcamp
+
+Beetroot Academy  
+Spring 2026
 
 ## Python Course — 23.02.2026
 
